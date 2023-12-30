@@ -2,7 +2,7 @@ package sampletest;
 
 public class sampledemo {
 	public static void main(String[] args) {
-		int a;
+		int a
 		System.out.println("testing1234");
 	}
 
